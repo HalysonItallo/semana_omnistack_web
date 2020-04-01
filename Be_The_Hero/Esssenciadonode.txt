@@ -1,0 +1,13 @@
+Dependências node
+--> express
+--> nodemon -D(para usar apenas para desenvolver)
+--> knex(Querry Builder)
+--> cors(segurança da aplicação)
+
+Criar um React
+--> npx create-react-app Nomedaaplicacao
+
+Dependências react
+--> react-icons 
+--> react-router-dom(configurar rotas)
+--> axios(cliente http que faz a chamada e recebe as respostas do back-end)

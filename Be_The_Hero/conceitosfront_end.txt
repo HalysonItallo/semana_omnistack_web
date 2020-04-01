@@ -1,0 +1,2 @@
+// JSX (JavaScipt XML) --> É uma componente(função que retorna js) JS que integra um XML
+// Propriedades do REACT é os atributos que nós podemos passar para o HTML
